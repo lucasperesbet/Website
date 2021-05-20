@@ -17,4 +17,4 @@ And rejoice
 In the absence of meaning
 ```
 
-[PAGE TEST](https://lucasperesbet.github.io/home/page_test.html)
+[Sobre](https://lucasperesbet.github.io/home/about/)
