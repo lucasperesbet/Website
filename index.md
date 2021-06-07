@@ -2,7 +2,7 @@
 
 This is a running test.
 
-![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) 
+![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) ![img](/images/ChipCard2x.gif) 
 
 ### Poem
 
