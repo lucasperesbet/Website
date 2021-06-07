@@ -2,7 +2,7 @@
 
 This is a running test.
 
-![img](/images/TokenGif.gif) ![img](/images/TokenGif.gif) ![img](/images/TokenGif.gif) ![img](/images/TokenGif.gif) ![img](/images/TokenGif.gif)
+![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) ![img](/images/ChipCard.gif) 
 
 ### Poem
 
