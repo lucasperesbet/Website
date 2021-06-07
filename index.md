@@ -2,6 +2,8 @@
 
 This is a running test.
 
+![img](/images/TokenGif16x.gif)
+
 ### Poem
 
 A poem is a sealed environment for words where their meaning develop away from words not chosen by the poet.
