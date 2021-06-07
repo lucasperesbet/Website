@@ -2,7 +2,7 @@
 
 This is a running test.
 
-![img](/images/TokenGif16x.gif)
+![img](/images/TokenGifMed.gif)
 
 ### Poem
 
