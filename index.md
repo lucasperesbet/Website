@@ -1,5 +1,4 @@
-# Hello,
-## World!
+## Hello World!
 
 This is a running test.
 
@@ -23,4 +22,4 @@ In the absence of meaning
 Awake.
 ```
 
-[Sobre](https://lucasperesbet.github.io/home/about/)
+[## Sobre](https://lucasperesbet.github.io/home/about/)
