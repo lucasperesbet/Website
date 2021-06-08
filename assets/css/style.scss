@@ -12,6 +12,12 @@
   background-color:white;
 }
 
+[data-lang]::before {
+  content: attr(data-lang);
+  display: block;
+  text-align: right;
+}
+
 body {
   background-color: whitesmoke;
 }
