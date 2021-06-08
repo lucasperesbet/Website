@@ -10,6 +10,8 @@ Este é um repositório autoral de [literatura e poesia](XX) e de experimentos c
 
 The poem is a sealed environment for words where their meaning develop away from words not chosen by the poet.
 
+Code block:
+
 ```
 The dreamer had it right
 The dreamer had it
@@ -21,3 +23,15 @@ And rejoice
 In the absence of meaning
 Awake.
 ```
+
+Quote block:
+
+> The dreamer had it right
+> The dreamer had it
+> The dreamer
+> The dream, and
+> Instead -
+> We'll dwell in faliure
+> And rejoice
+> In the absence of meaning
+> Awake.
