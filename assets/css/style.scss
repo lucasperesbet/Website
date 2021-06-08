@@ -13,10 +13,12 @@ h1 {
   align-items: center;
 }
 
-.language-plaintext.highlighter-rouge {
-  font-family: "Garamond";
+.highlight {
+  background-color: antiquewhite;
+}
+
+code {
+  font-family:"Garamond";
   font-size: 14;
   font-style: italic;
-  font-weight: bold;
-  background-color: antiquewhite;
 }
