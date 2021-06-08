@@ -8,7 +8,7 @@ The poem is a sealed environment for words where their meaning develop away from
 
 Code block 8:
 
-```poem
+```java
 The dreamer had it right
 The dreamer had it
 The dreamer
