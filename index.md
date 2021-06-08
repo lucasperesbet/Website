@@ -3,18 +3,18 @@
 <table id="t01">
   <tr>
     <td>
-      <h3><a href="www.google.com">Poesia</a></h1>
+      <h3><a href="www.google.com">Poesia</a></h3>
     </td>
     <td>
-      <h3><a href="www.google.com">Direito</a></h1>
+      <h3><a href="www.google.com">Direito</a></h3>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="www.google.com">Arte</a></h1>
+      <h3><a href="www.google.com">Arte</a></h3>
     </td>
     <td>
-      <h3><a href="www.google.com">Sobre</a></h1>
+      <h3><a href="www.google.com">Sobre</a></h3>
     </td>
   </tr>
 </table>
