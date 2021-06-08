@@ -8,13 +8,16 @@
   src: url("/assets/fonts/EBGaramond/EBGaramond-Italic.ttf");
 }
 
+.highlight {
+  background-color:white;
+}
+
+body {
+  background-color: whitesmoke;
+}
 
 h1 {
   align-items: center;
-}
-
-.highlight {
-  background-color: rgb(243, 238, 232);
 }
 
 code {
