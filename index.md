@@ -8,7 +8,8 @@ The poem is a sealed environment for words where their meaning develop away from
 
 Code block 3:
 
-<code>The dreamer had it right
+```
+The dreamer had it right
 The dreamer had it
 The dreamer
 The dream, and
@@ -16,4 +17,5 @@ Instead -
 We'll dwell in faliure
 And rejoice
 In the absence of meaning
-Awake.</code>
+Awake.
+```
