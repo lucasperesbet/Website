@@ -6,8 +6,9 @@
 
 The poem is a sealed environment for words where their meaning develop away from words not chosen by the poet.
 
-Code block 1:
-<code id="poem">The dreamer had it right
+Code block 2:
+
+<code id="pm">The dreamer had it right
 The dreamer had it
 The dreamer
 The dream, and
