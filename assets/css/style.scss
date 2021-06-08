@@ -16,14 +16,17 @@
   content: attr(data-lang);
   display: block;
   text-align: right;
+  z-index: -1;
+  position: relative;
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: rgb(255, 161, 145);
+  text-align: justify;
 }
 
 h1 {
-  align-items: center;
+  text-align: center;
 }
 
 code {
