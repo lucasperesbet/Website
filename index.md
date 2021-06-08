@@ -1,6 +1,6 @@
 ## Oi,
 
-<table style="width:100%">
+<table id="t01">
   <tr>
     <td>
       <h1><a href="www.google.com">Poesia</a></h1>

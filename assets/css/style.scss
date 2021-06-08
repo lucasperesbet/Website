@@ -3,5 +3,10 @@
 
 @import "{{ site.theme }}";
 h1 {
-  align-items: center; 
+  align-items: center;
+}
+
+#t01 {
+  width: auto;
+  border-style: hidden;
 }
