@@ -1,8 +1,3 @@
-<head>
-  <link rel="icon" type="image/png" href="/assets/images/logo/Geode1x.png"/>
-</head>
-
-
 ## Hello world!
 
 This is a running test.
