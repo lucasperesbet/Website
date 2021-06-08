@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: homebound
 description: a page in itself.
-show_downloads: false
+show_downloads: true
 
 logo: /assets/images/logo/Geode8x.png
 #google_analytics: [Your Google Analytics tracking ID]
