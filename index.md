@@ -6,8 +6,8 @@
 
 The poem is a sealed environment for words where their meaning develop away from words not chosen by the poet.
 
-Code block:
-<pre><code>The dreamer had it right
+Code block 1:
+<code id="poem">The dreamer had it right
 The dreamer had it
 The dreamer
 The dream, and
@@ -15,4 +15,4 @@ Instead -
 We'll dwell in faliure
 And rejoice
 In the absence of meaning
-Awake.</code></pre>
+Awake.</code>
