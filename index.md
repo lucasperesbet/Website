@@ -1,25 +1,6 @@
 # Oi,
 
-<table id="t01">
-  <tr>
-    <td>
-      <h3><a href="www.google.com">Poesia</a></h3>
-    </td>
-    <td>
-      <h3><a href="www.google.com">Direito</a></h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="www.google.com">Arte</a></h3>
-    </td>
-    <td>
-      <h3><a href="www.google.com">Sobre</a></h3>
-    </td>
-  </tr>
-</table>
-
-This is a running test.
+Este é um repositório autoral de [literatura e poesia](XX) e de experimentos com [pixel art e NFTs](XX). Se quiser você também pode saber mais [sobre](https://lucasperesbet.github.io/home/about/) mim.
 
 ![img](/assets/images/tokens/ChipCard2x.gif) ![img](/assets/images/tokens/ChipCard2x.gif) ![img](/assets/images/tokens/ChipCard2x.gif) ![img](/assets/images/tokens/ChipCard2x.gif)
 
@@ -40,5 +21,3 @@ And rejoice
 In the absence of meaning
 Awake.
 ```
-
-[## Sobre](https://lucasperesbet.github.io/home/about/)

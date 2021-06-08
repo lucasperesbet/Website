@@ -6,8 +6,11 @@ h1 {
   align-items: center;
 }
 
-#t01 {
-  width: auto;
-  border-style: hidden;
-  border: none;
+@fontface {
+  font-family: "Garamond";
+  src: url("/assets/fonts/EBGaramond/EBGaramond-Italic.ttf");
+}
+
+q {
+  font-family: "EBGaramond-Italic";
 }
