@@ -1,6 +1,6 @@
 # Oi,
 
-### Este é um repositório autoral de [literatura e poesia](XX) e de experimentos com [pixel art e NFTs](XX). Se quiser você também pode saber mais [sobre](https://lucasperesbet.github.io/home/about/) mim.
+Este é um repositório autoral de [literatura e poesia](XX) e de experimentos com [pixel art e NFTs](XX). Se quiser você também pode saber mais [sobre](https://lucasperesbet.github.io/home/about/) mim.
 
 # Poem
 
@@ -8,7 +8,7 @@ The poem is a sealed environment for words where their meaning develop away from
 
 Code block 9:
 
-```rust
+```
 The dreamer had it right
 The dreamer had it
 The dreamer
