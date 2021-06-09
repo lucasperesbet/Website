@@ -4,9 +4,7 @@ Este é um repositório autoral de [literatura e poesia](XX) e de experimentos c
 
 ### Test
 
-[Test-Post](https://lucasperesbet.github.io/homebound/blog.html)
-
-Code block 9:
+[Test-Post](https://lucasperesbet.github.io/homebound/_posts\2021-06-08-TEST-POST.md)
 
 ```
 The dreamer had it right
