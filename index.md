@@ -6,7 +6,7 @@ Este é um repositório autoral de [literatura e poesia](XX) e de experimentos c
 
 [Test-Post](https://lucasperesbet.github.io/homebound/_posts\2021-06-08-TEST-POST.md)
 
-Git bash test.
+Git bash test confirmation.
 
 ```
 The dreamer had it right
