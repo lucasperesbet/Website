@@ -20,13 +20,16 @@
   position: relative;
 }
 
-body {
-  background-color: rgb(255, 161, 145);
-  text-align: justify;
+h1 {
+  font-family: 'Garamond';
+  font-weight: bolder;
+  font-size: inherit;
+  color: coral;
 }
 
-h1 {
-  text-align: center;
+body {
+  background-color: white;
+  text-align: justify;
 }
 
 code {
